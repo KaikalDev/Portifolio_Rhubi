@@ -3,7 +3,8 @@ import { createGlobalStyle } from 'styled-components'
 export const Colors = {
   Primary: '#8a1900',
   Secondary: '#451c10',
-  white: '#c5c2be'
+  white: '#c5c2be',
+  TextBack: '#000'
 }
 
 export const Fonts = {
@@ -17,6 +18,7 @@ export const GlobalStyles = createGlobalStyle`
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    list-style: none;
   }
 
   html {
