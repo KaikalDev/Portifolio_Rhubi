@@ -9,7 +9,12 @@ const HomeText = () => (
         Estudante de Ánalise e Desenvolvimento de Sistemas com interesse em
         UI/UX design com fluencia em ingles.
       </p>
-      <button className="Curriculo">
+      <a
+        target="_blank"
+        href="https://docs.google.com/document/d/1cvrQMvxNsLTJ-rc9xnRaSnCOJuZ_hFldOlUSDIQQlz8/edit?tab=t.0#heading=h.phjpcduwrcvn"
+        className="Curriculo"
+        rel="noreferrer"
+      >
         Currículo
         <i>
           <svg
@@ -26,7 +31,7 @@ const HomeText = () => (
             <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708z" />
           </svg>
         </i>
-      </button>
+      </a>
       <div className="buttons">
         <a href="#AboutMe">
           <svg

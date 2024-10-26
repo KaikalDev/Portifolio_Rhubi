@@ -36,6 +36,8 @@ export const TextContainer = styled.div`
     font-family: ${Fonts.Roboto};
     font-weight: bold;
     border: none;
+    color: #000;
+    text-decoration: none;
   }
 
   .buttons {

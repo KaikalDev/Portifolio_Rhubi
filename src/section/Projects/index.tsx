@@ -44,7 +44,7 @@ const projects: Projeto[] = [
       'Desenvolvido pensando nas necessidades do profissional, mantendo sua identidade visual simples e confiável, com um site intuitivo. kaique',
     Image: ImgProject5,
     Link: 'https://www.canva.com/design/DAGPqearx3s/PC0039AAUMfUjvf57GlgHw/edit?utm_content=DAGPqearx3s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton',
-    Site: 'https://projeto-portifolio-seven-bay.vercel.app/'
+    Site: 'https://portifolio-gilt-rho.vercel.app/'
   }
 ]
 
