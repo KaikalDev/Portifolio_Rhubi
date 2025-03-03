@@ -4,7 +4,7 @@ import { Colors } from '../../styles'
 export const ProjectContainer = styled.div`
   display: flex;
   padding: 10px 16px;
-  color: ${Colors.TextBack};
+  color: ${Colors.white};
   gap: 15%;
 
   &.Second {
@@ -28,7 +28,7 @@ export const ProjectContainer = styled.div`
   }
 
   a {
-    color: ${Colors.TextBack};
+    color: ${Colors.white};
   }
 
   img {
@@ -51,7 +51,7 @@ export const ProjectContainer = styled.div`
     &:hover {
       font-weight: bold;
       background-color: transparent;
-      color: ${Colors.TextBack};
+      color: ${Colors.white};
       border: 2px solid ${Colors.TextBack};
     }
   }
