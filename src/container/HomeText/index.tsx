@@ -6,8 +6,8 @@ const HomeText = () => (
     <div>
       <h1>Rhubi Marçal</h1>
       <p>
-        Estudante de Ánalise e Desenvolvimento de Sistemas com interesse em
-        UI/UX design com fluencia em ingles.
+        Estudante de Análise e Desenvolvimento de Sistemas com interesse em
+        UI/UX design com fluência em inglês.
       </p>
       <a
         target="_blank"
