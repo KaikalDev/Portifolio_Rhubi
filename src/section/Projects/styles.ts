@@ -11,7 +11,7 @@ export const SectionContainer = styled.section`
     text-align: center;
     font-size: 48px;
     font-family: ${Fonts.Aloja};
-    color: ${Colors.TextBack};
+    color: ${Colors.white};
   }
 
   hr {
